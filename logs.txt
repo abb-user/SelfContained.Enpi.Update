@@ -1,0 +1,40 @@
+7/4/2024 2:50:08 PM: 7/1/2024 11:19:26 AM ----- kWh_to_CO2 ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 2:50:08 PM: 7/1/2024 11:19:26 AM ----- kwh_pezzo ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 2:50:09 PM: 7/2/2024 11:19:26 AM ----- kWh_to_CO2 ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 2:50:09 PM: 7/2/2024 11:19:26 AM ----- kwh_pezzo ----- 10 ----- Performance Indicator parameters updated successfully.
+7/4/2024 2:50:09 PM: 7/3/2024 11:19:26 AM ----- kWh_to_CO2 ----- 10 ----- Performance Indicator parameters updated successfully.
+7/4/2024 2:50:10 PM: 7/3/2024 11:19:26 AM ----- kwh_pezzo ----- 15 ----- Performance Indicator parameters updated successfully.
+7/4/2024 2:50:10 PM: 7/4/2024 11:19:26 AM ----- kWh_to_CO2 ----- 15 ----- Performance Indicator parameters updated successfully.
+7/4/2024 2:50:11 PM: 7/4/2024 11:19:26 AM ----- kwh_pezzo ----- 20 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:19:42 PM: 7/1/2024 11:19:26 AM ----- HDD_Test ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:19:43 PM: 7/1/2024 11:19:26 AM ----- Test SDK ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:19:44 PM: 7/2/2024 11:19:26 AM ----- HDD_Test ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:19:44 PM: 7/2/2024 11:19:26 AM ----- Test SDK ----- 100 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:19:45 PM: 7/3/2024 11:19:26 AM ----- HDD_Test ----- 10 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:19:46 PM: 7/3/2024 11:19:26 AM ----- Test SDK ----- 150 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:19:47 PM: 7/4/2024 11:19:26 AM ----- HDD_Test ----- 15 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:19:48 PM: 7/4/2024 11:19:26 AM ----- Test SDK ----- 200 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:22:11 PM: 7/1/2024 11:19:26 AM ----- HDD_Test ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:22:12 PM: 7/1/2024 11:19:26 AM ----- Test SDK ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:22:12 PM: 7/2/2024 11:19:26 AM ----- HDD_Test ----- 2.5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:22:13 PM: 7/2/2024 11:19:26 AM ----- Test SDK ----- 50 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:22:13 PM: 7/3/2024 11:19:26 AM ----- HDD_Test ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:22:13 PM: 7/3/2024 11:19:26 AM ----- Test SDK ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:22:14 PM: 7/4/2024 11:19:26 AM ----- HDD_Test ----- 7.5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:22:14 PM: 7/4/2024 11:19:26 AM ----- Test SDK ----- 100 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:41:14 PM: 6/27/2024 11:19:26 AM ----- HDD_Test ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:41:15 PM: 6/27/2024 11:19:26 AM ----- Test SDK ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:41:15 PM: 6/28/2024 11:19:26 AM ----- HDD_Test ----- 2 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:41:15 PM: 6/28/2024 11:19:26 AM ----- Test SDK ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:41:16 PM: 6/29/2024 11:19:26 AM ----- HDD_Test ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:41:16 PM: 6/29/2024 11:19:26 AM ----- Test SDK ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:41:17 PM: 6/30/2024 11:19:26 AM ----- HDD_Test ----- 7 ----- Performance Indicator parameters updated successfully.
+7/4/2024 3:41:17 PM: 6/30/2024 11:19:26 AM ----- Test SDK ----- 10 ----- Performance Indicator parameters updated successfully.
+7/4/2024 5:12:44 PM: 6/17/2024 11:19:26 AM ----- HDD_Test ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 5:12:44 PM: 6/17/2024 11:19:26 AM ----- Test SDK ----- 1 ----- Performance Indicator parameters updated successfully.
+7/4/2024 5:12:44 PM: 6/18/2024 11:19:26 AM ----- HDD_Test ----- 2 ----- Performance Indicator parameters updated successfully.
+7/4/2024 5:12:45 PM: 6/18/2024 11:19:26 AM ----- Test SDK ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 5:12:46 PM: 6/19/2024 11:19:26 AM ----- HDD_Test ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 5:12:46 PM: 6/19/2024 11:19:26 AM ----- Test SDK ----- 5 ----- Performance Indicator parameters updated successfully.
+7/4/2024 5:12:46 PM: 6/20/2024 11:19:26 AM ----- HDD_Test ----- 7 ----- Performance Indicator parameters updated successfully.
+7/4/2024 5:12:47 PM: 6/20/2024 11:19:26 AM ----- Test SDK ----- 10 ----- Performance Indicator parameters updated successfully.
